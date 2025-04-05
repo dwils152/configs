@@ -61,6 +61,7 @@ jobs:
           - "ceres"
           - "cfc"
           - "cfc_dev"
+          - "charlotte"
           - "cheaha"
           - "computerome"
           - "create"
