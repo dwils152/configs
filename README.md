@@ -114,6 +114,7 @@ Currently documentation is available for the following systems:
 - [Cedars-Sinai](docs/cedars.md)
 - [Ceres](docs/ceres.md)
 - [CFC](docs/cfc.md)
+- [CHARLOTTE](docs/charlotte.md)
 - [CHEAHA](docs/cheaha.md)
 - [Computerome](docs/computerome.md)
 - [CREATE](docs/create.md)
